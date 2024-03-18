@@ -2,8 +2,8 @@
 // console.log(i);
 // }
 const check = {adam:32,brian:40,charlie:58,dave:89,envy:12};
-let minval = 10;
-let maxval = 35;
+let minval = 40;
+let maxval = 60;
 for (let key in check){
     console.log(key);
     if(maxval>=check[key]>=minval ){
