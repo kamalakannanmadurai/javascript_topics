@@ -10,6 +10,8 @@ for (let key in check){
         console.log(key);
     }
 }
+
+let fname="Airbnb"
 // const check2 = [10,9,8,7,6];
 // for (let key in check2){
 //     console.log(key,check2[key]);
