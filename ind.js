@@ -10,15 +10,14 @@ for (let key in check){
         console.log(key);
     }
 }
-
 let fname="Airbnb"
-// const check2 = [10,9,8,7,6];
-// for (let key in check2){
-//     console.log(key,check2[key]);
-//     }
-//     for (let key in check){
-//         console.log(key,check[key]);
-//         }
-// for (let key of check){
-//         console.log(key);
-//         }
+const check2 = [10,9,8,7,6];
+for (let key in check2){
+    console.log(key,check2[key]);
+    }
+for (let key in check){
+    console.log(key,check[key]);
+       }
+for (let key of check){
+        console.log(key);
+        }
