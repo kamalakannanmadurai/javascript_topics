@@ -9,7 +9,7 @@ console.log("The reversed number for 1234 using funtion : ", reversenum(1234))
 
 //string concatenation with array method concat
 
-const word="Type";
+const word="Type",words="screen"
 
 const secondword="Script";
 
