@@ -1,4 +1,4 @@
-//reverse number with array method join
+//reverse number with array method join shashi conflict
 
 function reversenum(num)
 {
