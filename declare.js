@@ -7,3 +7,5 @@ let y = 2;
 // have to be initialized as soon as they are
 // declared otherwise, you will get an error.
 const z = 3;
+
+console.log(z);
