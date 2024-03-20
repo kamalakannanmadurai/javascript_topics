@@ -10,7 +10,7 @@ let person = {
         return (`The name of the person is 
           ${person.first_name} ${person.last_name}`)
     },
-    //object within object
+    //object within object added
     phone_number: {
         mobile: '12345',
         landline: '678910'
