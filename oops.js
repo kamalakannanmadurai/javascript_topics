@@ -13,7 +13,7 @@ let person = {
     //object within object
     phone_number: {
         mobile: '12345',
-        landline: '6789'
+        landline: '678910'
     }
 }
 console.log(person.getFunction());
