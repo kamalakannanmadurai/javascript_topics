@@ -2,11 +2,11 @@
 
 // Defining object
 let person = {
-    first_name: 'Mukul',
-    last_name: 'Latiyan',
+    first_name: 'shashi',
+    last_name: 'kanth',
  
     //method
-    getFunction: function () {
+    getFunction  () {
         return (`The name of the person is 
           ${person.first_name} ${person.last_name}`)
     },
